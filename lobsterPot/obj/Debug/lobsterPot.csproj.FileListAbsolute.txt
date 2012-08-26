@@ -1,0 +1,4 @@
+C:\Lobster\lobsterPot\lobsterPot\bin\lobsterPot.dll
+C:\Lobster\lobsterPot\lobsterPot\bin\lobsterPot.pdb
+C:\Lobster\lobsterPot\lobsterPot\obj\Debug\lobsterPot.dll
+C:\Lobster\lobsterPot\lobsterPot\obj\Debug\lobsterPot.pdb

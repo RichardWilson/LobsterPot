@@ -1,0 +1,60 @@
+﻿body
+{
+ 
+}
+
+#topBanner
+{
+    position: absolute;
+    background-color:#395466;
+    top:2px;
+    left:2px;
+    height:50px;
+    width: 990px;
+    font-family:Arial;
+    font-size:20pt;
+    font-weight:bold;
+    color:White;
+}
+
+#map
+{
+    position: relative;
+    background-color:#4f768f;
+    top:50px;
+    left:0px;
+    height:600px;
+    width: 750px;
+   /* border: 3px dotted #000000; */
+}
+
+#panel
+{
+    position: absolute;
+    background-color:#4f768f;
+    top:52px;
+    left:764px;
+    height:605px;
+    width: 228px;
+ }
+ 
+ #footer
+{
+    position: absolute;
+    background-color:#b0ccdd;
+    top:662px;
+    left:2px;
+    height:50px;
+    width: 990px;
+ }
+ 
+ #controls
+ {
+    position: absolute;
+    background-color:#4f768f;
+    top:54px;
+    left:767px;
+    height:598px;
+    width: 220px;
+    border: 1px solid #ffffff; 
+ }
